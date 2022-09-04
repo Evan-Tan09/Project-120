@@ -1,0 +1,16 @@
+#aaa{
+  height: 100%;
+}
+#bbb{
+  height: 100%;
+}
+body{
+  background-color: black;
+  color: #ffffff;
+}
+#outputofgooglelens{
+  background-color: grey;
+}
+#outputofmobilenet{
+  background-color: grey;
+}
